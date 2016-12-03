@@ -1,6 +1,6 @@
 """Sudoku Solver, by Richard Ngo
 Solves sudoku using deduction and informed trial and error.
-Input and output in GUI window. Typical solve time: 0.1-10s."""
+Input and output in GUI window."""
 
 class square:
     #represents one square on sudoku grid.
